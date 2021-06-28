@@ -2,6 +2,7 @@
     "name": "rizhou/anchors",
     "description": "Sets the anchors.",
     "license": "MIT",
+    "homepage": "https://github.com/xierizhou/laravel-anchors",
     "authors": [
         {
             "name": "rizhou",
